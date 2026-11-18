@@ -1,0 +1,6 @@
+{
+  "name": "SimTraff : AI Traffic Manager",
+  "description": "Real-time AI-driven traffic simulation and management system for optimizing 4-way junction throughput.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
